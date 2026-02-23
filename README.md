@@ -1,0 +1,2 @@
+# autopsy--autonomous-adaptive-evolutionary-network--aaen-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Adaptive Evolutionary Network (AAEN)' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 50NEW_TOPIC:SKILLS: [system_design, multi-agent_coordination, automation]METRICS:Coordination: 1Technical Complexity: 1Efficiency: 3Clarity: 2SUGGEST_UI: FalseSORIGINAL ERROR LOGS:Ollama model did not ret
